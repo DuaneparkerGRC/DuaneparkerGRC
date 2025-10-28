@@ -4,16 +4,16 @@
 I’m a GRC specialist delivering audit-ready security programs. With 5+ years across SMEs and tech, I implement ISO 27001 ISMSs, craft policies, run risk and internal audits, and share templates and checklists to operationalize security-by-design.
 
 ## Objective
-Publish reusable GRC building blocks on GitHub—ISO 27001 artifacts, SoA patterns, risk registers, checklists—and automate evidence collection, reviews, and vendor due diligence. Collaborate with the community to raise security maturity and make compliance continuous, practical.
+Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, measurable risk reduction, and audit readiness. Lead cross-functional governance, mentor teams, and build scalable policies and third-party assurance to strengthen resilience and support growth internationally.
 
 ## Skills
--Information Security Governance & Policy Development />
--Risk Assessment, Treatment & Mitigation />
--Internal Audits & Compliance Monitoring />
--Data Protection & Privacy Management />
--ISO 27001 Implementation & Audit Readiness />
--Vendor & Third-Party Risk Management />
--Security Awareness & Compliance Training />
+-Information Security Governance & Policy Development
+-Risk Assessment, Treatment & Mitigation
+-Internal Audits & Compliance Monitoring
+-Data Protection & Privacy Management
+-ISO 27001 Implementation & Audit Readiness
+-Vendor & Third-Party Risk Management
+-Security Awareness & Compliance Training
 
 ## Cybersecurity Projects
 
