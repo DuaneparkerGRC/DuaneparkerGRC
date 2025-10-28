@@ -30,17 +30,13 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 
 ## Tools
 
-### Network
+### Vulnarability Management and Forensic
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tenable%20Nessus%20Essentials-00A3E0?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-EF3E3E?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -56,19 +52,9 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20DLP%20(Purview)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
-
-
-### CLOUD
-</div>
-   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Microsoft%20DLP%20(Purview)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-
-
 
 
 ## Certifications
