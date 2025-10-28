@@ -52,9 +52,11 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/-ISO%2027001%20Lead%20Auditor-00539F?&style=for-the-badge&logo=ISO&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-NIST%20RMF%20Foundation-000000?&style=for-the-badge&logo=NIST&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
