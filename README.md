@@ -34,7 +34,6 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tenable%20Nessus%20Essentials-00A3E0?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -51,7 +50,10 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 </div>
 
 ### CLOUD
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20DLP%20(Purview)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 
