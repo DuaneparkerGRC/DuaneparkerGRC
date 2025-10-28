@@ -1,16 +1,10 @@
 # Hello, I'm Dulara
 <a href="https://www.linkedin.com/in/dularaparanawidana/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a Cybersecurity Governance, Risk & Compliance (GRC) Specialist with over 5 years of hands-on experience implementing ISO 27001-aligned information security programs and strengthening enterprise risk and compliance posture across diverse industries.
-
-I specialize in policy governance, risk management, internal audits, and data protection, helping organizations maintain secure, audit-ready environments aligned with frameworks such as NIST RMF, SOC 2, and GDPR.
-
-At Thina Entertainment, I led the development of the organization’s Information Security Management System (ISMS), authored over a dozen governance and security policies, and conducted internal audits and risk assessments to maintain continuous improvement and control maturity. My work bridged creative operations and secure information governance, ensuring compliance, resilience, and digital asset protection.
-
-Currently, I consult as an Independent GRC Practitioner, delivering ISO 27001 gap assessments, preparing Statements of Applicability, managing risk registers, and developing policy suites that embed security-by-design into daily operations.
+I’m a GRC specialist delivering audit-ready security programs. With 5+ years across SMEs and tech, I implement ISO 27001 ISMSs, craft policies, run risk and internal audits, and share templates and checklists to operationalize security-by-design.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Publish reusable GRC building blocks on GitHub—ISO 27001 artifacts, SoA patterns, risk registers, checklists—and automate evidence collection, reviews, and vendor due diligence. Collaborate with the community to raise security maturity and make compliance continuous, practical.
 
 ## Skills
 -Information Security Governance & Policy Development
