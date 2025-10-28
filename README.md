@@ -1,9 +1,28 @@
 # Hello, I'm Dulara
-<a href="[https://linkedin.com](https://www.linkedin.com/in/dularaparanawidana/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dularaparanawidana/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I’m a Cybersecurity Governance, Risk & Compliance (GRC) Specialist with over 5 years of hands-on experience implementing ISO 27001-aligned information security programs and strengthening enterprise risk and compliance posture across diverse industries.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I specialize in policy governance, risk management, internal audits, and data protection, helping organizations maintain secure, audit-ready environments aligned with frameworks such as NIST RMF, SOC 2, and GDPR.
+
+At Thina Entertainment, I led the development of the organization’s Information Security Management System (ISMS), authored over a dozen governance and security policies, and conducted internal audits and risk assessments to maintain continuous improvement and control maturity. My work bridged creative operations and secure information governance, ensuring compliance, resilience, and digital asset protection.
+
+Currently, I consult as an Independent GRC Practitioner, delivering ISO 27001 gap assessments, preparing Statements of Applicability, managing risk registers, and developing policy suites that embed security-by-design into daily operations.
+
+Key Competencies
+
+-Information Security Governance & Policy Development
+-Risk Assessment, Treatment & Mitigation
+-Internal Audits & Compliance Monitoring
+-Data Protection & Privacy Management
+-ISO 27001 Implementation & Audit Readiness
+-Vendor & Third-Party Risk Management
+-Security Awareness & Compliance Training
+
+📧 Email: dulara.grc@gmail.com
+📱 Phone: +60 11 2411 9249
+🔗 LinkedIn: linkedin.com/in/dularaparanawidana
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
