@@ -9,8 +9,10 @@ At Thina Entertainment, I led the development of the organization’s Informatio
 
 Currently, I consult as an Independent GRC Practitioner, delivering ISO 27001 gap assessments, preparing Statements of Applicability, managing risk registers, and developing policy suites that embed security-by-design into daily operations.
 
-Key Competencies
+## Objective
+[Provide Objective - Remove this afterwards]]
 
+## Skills
 -Information Security Governance & Policy Development
 -Risk Assessment, Treatment & Mitigation
 -Internal Audits & Compliance Monitoring
@@ -19,18 +21,7 @@ Key Competencies
 -Vendor & Third-Party Risk Management
 -Security Awareness & Compliance Training
 
-📧 Email: dulara.grc@gmail.com
-📱 Phone: +60 11 2411 9249
-🔗 LinkedIn: linkedin.com/in/dularaparanawidana
-
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Cybersecurity Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
