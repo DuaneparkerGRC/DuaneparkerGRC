@@ -7,7 +7,7 @@ I’m a GRC specialist delivering audit-ready security programs. With 5+ years a
 Publish reusable GRC building blocks on GitHub—ISO 27001 artifacts, SoA patterns, risk registers, checklists—and automate evidence collection, reviews, and vendor due diligence. Collaborate with the community to raise security maturity and make compliance continuous, practical.
 
 ## Skills
--Information Security Governance & Policy Development
+-Information Security Governance & Policy Development>
 -Risk Assessment, Treatment & Mitigation
 -Internal Audits & Compliance Monitoring
 -Data Protection & Privacy Management
