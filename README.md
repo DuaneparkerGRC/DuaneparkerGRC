@@ -19,7 +19,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 
 ## Cybersecurity Projects
 
-| Skill                                         | Associated Project         |
+| Project                                       | Associated Link     |
 |-----------------------------------------------|----------------------------|
 | Azure Cloud Home Lab with SIEM Monitoring using Sentinel         | <a href="https://google.com">Detection Lab</a>|
 | Windows Active Directory Home Lab using Splunk and Attack Simulation  | <a href="https://google.com">Detection Lab</a>|
@@ -33,7 +33,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus%20Essentials-00A3E0?&style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -46,9 +46,17 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0B5CAB?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
+
+### CLOUD
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
+
+
+
 
 ## Certifications
 
