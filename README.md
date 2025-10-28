@@ -7,13 +7,15 @@ I’m a GRC specialist delivering audit-ready security programs. With 5+ years a
 Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, measurable risk reduction, and audit readiness. Lead cross-functional governance, mentor teams, and build scalable policies and third-party assurance to strengthen resilience and support growth internationally.
 
 ## Skills
--Information Security Governance & Policy Development
--Risk Assessment, Treatment & Mitigation
--Internal Audits & Compliance Monitoring
--Data Protection & Privacy Management
--ISO 27001 Implementation & Audit Readiness
--Vendor & Third-Party Risk Management
--Security Awareness & Compliance Training
+
+- **Information Security Governance & Policy Development**  
+- **Risk Assessment, Treatment & Mitigation**  
+- **Internal Audits & Compliance Monitoring**  
+- **Data Protection & Privacy Management**  
+- **ISO 27001 Implementation & Audit Readiness**  
+- **Vendor & Third-Party Risk Management**  
+- **Security Awareness & Compliance Training**
+
 
 ## Cybersecurity Projects
 
@@ -58,8 +60,6 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 <img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-NIST%20RMF%20Foundation-000000?&style=for-the-badge&logo=NIST&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 <h2>📺 Popular YouTube Videos</h2>
