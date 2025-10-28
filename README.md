@@ -49,6 +49,16 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
     <img src="https://img.shields.io/badge/-Wazuh-0B5CAB?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
+
+### CLOUD
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20DLP%20(Purview)-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+
 ### CLOUD
 </div>
    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
