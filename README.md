@@ -21,15 +21,14 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Azure Cloud Home Lab with SIEM Monitoring using Sentinel         | <a href="https://google.com">Detection Lab</a>|
+| Windows Active Directory Home Lab using Splunk and Attack Simulation  | <a href="https://google.com">Detection Lab</a>|
+| Cyber Assesment Web Application with Mitigations        | SOC Automation Lab|
+| Python Automation Project with Open AI intergration    | SOC Automation Lab|
+| Open Source self hosted Lab environment with Graylog and Wazuh             | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -52,7 +51,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-ISO%2027001%20Lead%20Auditor-00539F?&style=for-the-badge&logo=ISO&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
