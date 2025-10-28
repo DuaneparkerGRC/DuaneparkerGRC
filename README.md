@@ -17,7 +17,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 - **Security Awareness & Compliance Training**
 
 
-### Cybersecurity Projects
+## Cybersecurity Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -60,9 +60,10 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 <img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-NIST%20RMF%20Foundation-000000?&style=for-the-badge&logo=NIST&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 </div>
 
-##Thank you for visiting my profile!
+## Thank you for visiting my profile!
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
