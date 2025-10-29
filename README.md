@@ -22,7 +22,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 | Project                                       | Associated Link     |
 |-----------------------------------------------|----------------------------|
 | Cyber Assesment Web Application with pre-defined mitigation playbooks        |  <a href="https://github.com/DuaneparkerGRC/Cyber-assesment-app">Project Information</a>|
-| GRC Documentation Toolkit   | SOC Automation Lab|
+| GRC Documentation Toolkit   | <a href="https://github.com/DuaneparkerGRC/GRC-Documentation-Toolkit">Project Information</a>|
 | Azure Cloud Home Lab with SIEM Monitoring using Sentinel         | <a href="https://google.com">Detection Lab</a>|
 | Windows Active Directory Home Lab using Splunk and Attack Simulation  | <a href="https://google.com">Detection Lab</a>|
 | Python Automation Project with Open AI intergration    | SOC Automation Lab|
