@@ -27,7 +27,7 @@ Advance as a Cybersecurity GRC leader driving ISO 27001–aligned programs, meas
 | *Windows Active Directory Home Lab using Splunk and Attack Simulation  | <a href="https://google.com">Detection Lab</a>|
 | Python Automation Project with Open AI intergration    | <a href="https://github.com/DuaneparkerGRC/Python-Automation-Project">Project Information</a>|
 | Packet Capture and Analysis Project using Wireshark and HEX Editor           |<a href="https://github.com/DuaneparkerGRC/Wireshark-Investigation-Project">Project Information</a>|
-| *Open Source self hosted Lab environment with Graylog and Wazuh             | SOC Automation Lab|
+| *Vulnarability Management Proeject with Qualys & Nessus        | SOC Automation Lab|
 
 
 ## Tools
